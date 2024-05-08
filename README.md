@@ -5,7 +5,7 @@ just do remember everything a i have to install
 - [x] firefox
 - [x] discord
 - [x] spotify
-- [ ] [spotube](https://github.com/KRTirtho/spotube)
+- [x] [spotube](https://github.com/KRTirtho/spotube)
 - [x] telegram
 - [ ] [planify](https://github.com/alainm23/planify)
 - [x] xournal++
@@ -28,17 +28,17 @@ just do remember everything a i have to install
 - [ ] [nvchad](https://github.com/NvChad/NvChad)
   - [ ] [nerdfonts](https://github.com/ryanoasis/nerd-fonts)
   - [ ] config 
-- [ ] [pokemon-coloscripts](https://gitlab.com/phoneybadger/pokemon-colorscripts)
+- [x] [pokemon-coloscripts](https://gitlab.com/phoneybadger/pokemon-colorscripts)
 - [x] gcc
 - [x] clang++
 - [x] clang-format
 - [x] cmake
 - [x] python
   - [x] pip
-- [ ] [go-anime](https://github.com/alvarorichard/GoAnime)
+- [x] [go-anime](https://github.com/alvarorichard/GoAnime)
 - [x] golang
 - [x] lynx
 - [x] git
-- [ ] npm
-- [ ] node
+- [x] npm
+- [x] node
 - [x] yay
