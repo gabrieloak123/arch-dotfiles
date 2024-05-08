@@ -26,5 +26,8 @@ it will print a string, copy it(includindo the ssh-somethin and the email) and (
 
 ### config
 ```
-git clone 
+git clone git@github.com:gabrieloak123/arch-dotfiles.git
+cd arch-dotfiles
+chmod 777 basic-setup.sh
+./basic-setup.sh
 ```
