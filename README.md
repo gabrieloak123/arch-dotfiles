@@ -2,7 +2,7 @@
 just do remember everything a i have to install
 
 ## apps
-- [ ] firefox
+- [x] firefox
 - [ ] discord
 - [ ] spotify
 - [ ] [spotube](https://github.com/KRTirtho/spotube)
@@ -39,7 +39,7 @@ just do remember everything a i have to install
 - [ ] golang
 - [ ] lynx
 - [ ] neofetch
-- [ ] git
+- [x] git
 - [ ] npm
 - [ ] node
 - [ ] yay
