@@ -22,12 +22,12 @@ mkdir ~/.ssh
 ssh-keygen -t ed25519 -C "your_email@example.com"
 cat ~/.ssh/id_ed25519.pub
 ```
-it will print a string, copy it(includindo the ssh-somethin and the email) and (add a new ssh key)[https://github.com/settings/keys], then copy there
+it will print a string, copy it(includindo the ssh-somethin and the email) and [add a new ssh key](https://github.com/settings/keys), then copy there
 
 ### config
 ```
 git clone git@github.com:gabrieloak123/arch-dotfiles.git
 cd arch-dotfiles
-chmod 777 basic-setup.sh
+chmod +x basic-setup.sh
 ./basic-setup.sh
 ```
