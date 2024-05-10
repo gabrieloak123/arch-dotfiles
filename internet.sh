@@ -1,6 +1,6 @@
 #!/bin/bash
 nmcli r wifi on
-nmcli r wifi list
+nmcli device wifi list
 
 echo "Type the network you want to connect"
 read network
