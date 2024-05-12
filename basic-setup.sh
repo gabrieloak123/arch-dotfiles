@@ -10,15 +10,7 @@ mkdir ~/Desktop/Config
 
 cd ..
 mv arch-dotfiles Desktop/Config
-cd Desktop/Config
-
-git clone --depth 1 git@github.com:gabrieloak123/hyprdots.git
-./hyprdots/install.sh
-
-#change the timezone
-timedatectl set-timezone America/Sao_Paulo
-
-cd arch-dotfiles
+cd Desktop/Config/arch-dotfiles
 
 #install some apps
 yay -S --needed - < yay-apps.lst
@@ -28,7 +20,5 @@ pacman -S --needed - < pacman-apps.lst
 pacman -U apps/mini-video.pacman
 
 chmod +x apps/kcc.AppImage
-./apps/kcc.AppImage
-
 chmod +x aliases.sh
 ./aliases.sh
