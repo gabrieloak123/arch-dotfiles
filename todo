@@ -1,8 +1,12 @@
-- [] fix grub
-- [x] check everything hyprdots is istalling
-- [x] check the names of  the packages i wanna install
-- [x] install hyprdots
-- [x] fix ssh key
-- [] firefox theme
-- [] firefox extensions
-- [] fix keyboard layout
+- [] fix nvim configs
+- [] debugger
+- [] rofi configs
+- [] waybar configs
+- [] wlsunset script
+- [] sound switcher
+- [] bluetooth interface
+- [] hyprland binds
+- [] minecraft bootloader
+- [] screenboard
+- [] minivideome square
+- [] planify
