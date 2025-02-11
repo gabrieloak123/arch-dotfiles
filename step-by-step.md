@@ -1,6 +1,8 @@
 # step by step
 ### warning: this tutorial was created to be executed using the less amount of mental effort possible, so it contains several trivial steps(i.e. prereqs: arch and literacy)
 
+git, firefox and networkmanager
+
 ## internet
 first of all, after you install arch(and also git and firefox as optional packages) you should have a pendrive to download the `internet.sh`, then plug it and follow this
 ```
