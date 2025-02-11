@@ -1,12 +1,11 @@
-- [] fix nvim configs
-- [] debugger
+- [] nvim
 - [] rofi configs
 - [] waybar configs
 - [] wlsunset script
 - [] sound switcher
+  - [] switch speaker and headset script
 - [] bluetooth interface
 - [] hyprland binds
 - [] minecraft bootloader
 - [] screenboard
 - [] minivideome square
-- [] planify
