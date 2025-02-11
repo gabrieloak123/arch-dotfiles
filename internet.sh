@@ -1,4 +1,5 @@
 #!/bin/bash
+sudo systemctl start NetworkManager
 nmcli r wifi on
 nmcli device wifi list
 
