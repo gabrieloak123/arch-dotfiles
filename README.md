@@ -1,9 +1,16 @@
 # arch-todo
 just do remember everything a i have to install
 
+## Utils
+- [ ] wget
+- [ ] lynx
+- [ ] zip
+- [ ] unzip
+- [ ] wlsunset
+- [ ] zathura
+- [ ] 
 ## apps
 - [x] firefox
-- [ ] wget
 - [x] webcord
 - [x] [spotify](https://github.com/hrkfdn/ncspot)
 - [x] telegram
@@ -29,23 +36,9 @@ just do remember everything a i have to install
 ## terminal
 - [ ] [nerdfonts](https://github.com/ryanoasis/nerd-fonts)
 - [x] [pokemon-coloscripts](https://gitlab.com/phoneybadger/pokemon-colorscripts)
-- [x] gcc
-- [x] clang++
-- [x] clang-format
-- [x] cmake
-- [x] python
-  - [x] pip
 - [x] [go-anime](https://github.com/alvarorichard/GoAnime)
-- [x] golang
-- [x] lynx
-- [x] git
-- [x] npm
-- [x] node
-- [ ] zip
-- [ ] unzip
-- [ ] zathura
-- [ ] Postman
-- [ ] wlsunset
+
+
 ## Drivers
 - [ ] linux-headers
 - [ ] intel-gpu-tools
