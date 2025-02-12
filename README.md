@@ -8,7 +8,7 @@ just do remember everything a i have to install
 - [ ] unzip
 - [ ] wlsunset
 - [ ] zathura
-- [ ] 
+- [ ] goanime
 ## apps
 - [x] firefox
 - [x] webcord
