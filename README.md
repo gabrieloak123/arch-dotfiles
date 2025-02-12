@@ -3,6 +3,7 @@ just do remember everything a i have to install
 
 ## apps
 - [x] firefox
+- [ ] wget
 - [x] webcord
 - [x] [spotify](https://github.com/hrkfdn/ncspot)
 - [x] telegram
@@ -21,10 +22,12 @@ just do remember everything a i have to install
 - [x] ["hyprland"](https://github.com/prasanthrangan/hyprdots)
 - [ ] [firefox theme](https://github.com/datguypiko/Firefox-Mod-Blur)
 - [ ] [minecraft bootloader](https://github.com/Lxtharia/minegrub-theme)
+- [ ] waybar
+- [ ] dunst
+- [ ] kitty
+- [ ] 
 ## terminal
-- [ ] [nvchad](https://github.com/NvChad/NvChad)
-  - [ ] [nerdfonts](https://github.com/ryanoasis/nerd-fonts)
-  - [ ] config 
+- [ ] [nerdfonts](https://github.com/ryanoasis/nerd-fonts)
 - [x] [pokemon-coloscripts](https://gitlab.com/phoneybadger/pokemon-colorscripts)
 - [x] gcc
 - [x] clang++
@@ -39,11 +42,25 @@ just do remember everything a i have to install
 - [x] npm
 - [x] node
 - [ ] zip
+- [ ] unzip
+- [ ] zathura
+- [ ] Postman
+- [ ] wlsunset
+## Drivers
+- [ ] linux-headers
+- [ ] intel-gpu-tools
+- [ ] intel-media-driver
+- [ ] intel-ucode
+- [ ] vulkan-intel
+- [ ] xf86-video-intel
+- [ ] [nvidia](https://github.com/korvahannu/arch-nvidia-drivers-installation-guide)(Maxwell (NV110) series up to Ada Lovelace (NV190/ADXXX))
 
 Siga [esse](https://codeberg.org/selan/arch_install/src/branch/main/arch_basic.md) guia de instalação.
 
 Atualize os [mirrors](https://wiki.archlinux.org/title/Mirrors)
 
 Instale o [yay](https://github.com/Jguer/yay) e apague o repositório em sequência.
+
+Drivers
 
 
