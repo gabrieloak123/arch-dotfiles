@@ -42,3 +42,6 @@ just do remember everything a i have to install
 - [x] npm
 - [x] node
 - [x] yay
+
+Siga [esse](https://codeberg.org/selan/arch_install/src/branch/main/arch_basic.md) guia de instalação.
+Atualize os mirrors
