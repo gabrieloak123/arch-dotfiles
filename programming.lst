@@ -1,0 +1,16 @@
+nvim
+gcc
+clang++
+clang-format
+cmake
+python
+pip
+golang
+git
+npm
+node
+doxygen
+lldb
+llvm
+tmux
+jre17-openjdk
