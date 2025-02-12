@@ -9,6 +9,7 @@ just do remember everything a i have to install
 - [ ] wlsunset
 - [ ] zathura
 - [ ] goanime
+- [ ] pokeget
 ## apps
 - [x] firefox
 - [x] webcord
@@ -32,11 +33,8 @@ just do remember everything a i have to install
 - [ ] waybar
 - [ ] dunst
 - [ ] kitty
-- [ ] 
 ## terminal
 - [ ] [nerdfonts](https://github.com/ryanoasis/nerd-fonts)
-- [x] [pokemon-coloscripts](https://gitlab.com/phoneybadger/pokemon-colorscripts)
-- [x] [go-anime](https://github.com/alvarorichard/GoAnime)
 
 
 ## Drivers
