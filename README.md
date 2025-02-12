@@ -45,6 +45,10 @@ just do remember everything a i have to install
 - [ ] vulkan-intel
 - [ ] xf86-video-intel
 - [ ] [nvidia](https://github.com/korvahannu/arch-nvidia-drivers-installation-guide)(Maxwell (NV110) series up to Ada Lovelace (NV190/ADXXX))
+- [ ] pipewire
+- [ ] pipewire-alsa
+- [ ] pipewire-pulse
+- [ ] pulsemixer
 
 Siga [esse](https://codeberg.org/selan/arch_install/src/branch/main/arch_basic.md) guia de instalação.
 
