@@ -38,6 +38,7 @@ just do remember everything a i have to install
 - [x] git
 - [x] npm
 - [x] node
+- [ ] zip
 
 Siga [esse](https://codeberg.org/selan/arch_install/src/branch/main/arch_basic.md) guia de instalação.
 
