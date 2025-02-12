@@ -3,11 +3,9 @@ just do remember everything a i have to install
 
 ## apps
 - [x] firefox
-- [x] discord
-- [x] spotify
-- [x] [spotube](https://github.com/KRTirtho/spotube)
+- [x] webcord
+- [x] [spotify](https://github.com/hrkfdn/ncspot)
 - [x] telegram
-- [ ] [planify](https://github.com/alainm23/planify)
 - [x] xournal++
 - [x] gimp
 - [x] obs
@@ -17,7 +15,6 @@ just do remember everything a i have to install
 - [ ] [screenboard](https://github.com/maykbrito/screenboard)
 - [x] libreoffice
 - [x] qbittorrent
-- [x] qownnotes
 - [x] arduino
 - [x] vscode(already on hyprdots)
 ## rice
@@ -41,7 +38,11 @@ just do remember everything a i have to install
 - [x] git
 - [x] npm
 - [x] node
-- [x] yay
 
 Siga [esse](https://codeberg.org/selan/arch_install/src/branch/main/arch_basic.md) guia de instalação.
-Atualize os mirrors
+
+Atualize os [mirrors](https://wiki.archlinux.org/title/Mirrors)
+
+Instale o [yay](https://github.com/Jguer/yay)
+
+
