@@ -1,6 +1,6 @@
 # Dual Boot
 
-Esse tutorial é exclusivo para uma instalação de linux e windows em unidades de disco diferentes. Primeiramente, é necessário que as duasinstalaçõe estejam funcionais, de forma que a primeira opção de boot na BIOS seja o Linux e a segunda seja o Windows. Feito isso, identifique a partição que contém da EFI do Windows(Geralmente é uma partição de 100mb).
+Esse tutorial é exclusivo para uma instalação de linux e windows em unidades de disco diferentes. Primeiramente, é necessário que as duasi nstalaçõe estejam funcionais, de forma que a primeira opção de boot na BIOS seja o Linux e a segunda seja o Windows. Feito isso, identifique a partição que contém da EFI do Windows(Geralmente é uma partição de 100mb).
 
 
 ```
@@ -14,7 +14,6 @@ mount -t vfat /dev/sdax /mnt/windows_efi
 ```
 
 Confime se a montagem deu certo:
-Instale o `os-prober`:
 
 ```
 ls /mnt/windows_efi
