@@ -35,6 +35,9 @@ just do remember everything a i have to install
 - [ ] kitty
 ## terminal
 - [ ] [nerdfonts](https://github.com/ryanoasis/nerd-fonts)
+- [ ] zsh
+- [ ] zsh-fast-syntax-highlighting
+- [ ] zsh-autosuggestions
 
 
 ## Drivers
