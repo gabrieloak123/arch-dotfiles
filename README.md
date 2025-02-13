@@ -38,6 +38,7 @@ just do remember everything a i have to install
 - [ ] zsh
 - [ ] zsh-fast-syntax-highlighting
 - [ ] zsh-autosuggestions
+- [ ] (kitty themes)[https://github.com/dexpota/kitty-themes]
 
 
 ## Drivers
