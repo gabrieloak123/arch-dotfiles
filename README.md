@@ -28,7 +28,7 @@ just do remember everything a i have to install
 - [x] vscode(already on hyprdots)
 ## rice
 - [x] ["hyprland"](https://github.com/prasanthrangan/hyprdots)
-- [ ] [firefox theme](https://github.com/datguypiko/Firefox-Mod-Blur)
+- [ ] [firefox theme](https://github.com/mimipile/firefoxCSS)
 - [ ] [minecraft bootloader](https://github.com/Lxtharia/minegrub-theme)
 - [ ] waybar
 - [ ] dunst
