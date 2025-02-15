@@ -10,6 +10,7 @@ just do remember everything a i have to install
 - [ ] zathura
 - [ ] goanime
 - [ ] pokeget
+- [ ] sddm
 ## apps
 - [x] firefox
 - [x] webcord
@@ -30,6 +31,7 @@ just do remember everything a i have to install
 - [x] ["hyprland"](https://github.com/prasanthrangan/hyprdots)
 - [ ] [firefox theme](https://github.com/mimipile/firefoxCSS)
 - [ ] [minecraft bootloader](https://github.com/Lxtharia/minegrub-theme)
+- [ ] [minecraft login](https://github.com/Davi-S/sddm-theme-minesddm)
 - [ ] waybar
 - [ ] dunst
 - [ ] kitty
@@ -55,6 +57,12 @@ just do remember everything a i have to install
 - [ ] pipewire-pulse
 - [ ] pulsemixer
 - [ ] pavucontrol
+- [ ] qt5-base
+- [ ] qt5-graphicaleffects
+- [ ] qt5-svg
+- [ ] xorg-xwayland
+- [ ] qt5-quickcontrols
+- [ ] qt5-quickcontrols2
 
 Siga [esse](https://codeberg.org/selan/arch_install/src/branch/main/arch_basic.md) guia de instalação.
 
