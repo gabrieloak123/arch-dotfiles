@@ -11,6 +11,7 @@ just do remember everything a i have to install
 - [ ] goanime
 - [ ] pokeget
 - [ ] sddm
+- [ ] selan fonts
 ## apps
 - [x] firefox
 - [x] webcord
