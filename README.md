@@ -14,6 +14,9 @@ just do remember everything a i have to install
 - [ ] selan fonts
 - [ ] nwg-look
 - [ ] breeze-gtk
+- [ ] skeuowaita-git 
+- [ ] bibata-cursor
+- [ ] [audio](https://askubuntu.com/questions/1225463/18-04-no-sound-intel-sound-card-snd-hda-intel-not-working/1225499#1225499)
 ## apps
 - [x] firefox
 - [x] webcord
@@ -38,6 +41,7 @@ just do remember everything a i have to install
 - [ ] waybar
 - [ ] dunst
 - [ ] kitty
+- [ ] wofi
 ## terminal
 - [ ] [nerdfonts](https://github.com/ryanoasis/nerd-fonts)
 - [ ] zsh
