@@ -12,6 +12,8 @@ just do remember everything a i have to install
 - [ ] pokeget
 - [ ] sddm
 - [ ] selan fonts
+- [ ] nwg-look
+- [ ] breeze-gtk
 ## apps
 - [x] firefox
 - [x] webcord
@@ -41,7 +43,7 @@ just do remember everything a i have to install
 - [ ] zsh
 - [ ] zsh-fast-syntax-highlighting
 - [ ] zsh-autosuggestions
-- [ ] (kitty themes)[https://github.com/dexpota/kitty-themes]
+- [ ] [kitty themes](https://github.com/dexpota/kitty-themes)
 - [ ] yazi
 
 
