@@ -22,6 +22,7 @@ just do remember everything a i have to install
 - [ ] man-pages
 - [ ] man-db
 - [ ] man-pages-pt_br
+- [ ] dunst
 ## apps
 - [x] firefox
 - [x] webcord
