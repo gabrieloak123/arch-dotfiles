@@ -19,6 +19,9 @@ just do remember everything a i have to install
 - [ ] noto-fonts
 - [ ] noto-fonts-emoji
 - [ ] [audio](https://askubuntu.com/questions/1225463/18-04-no-sound-intel-sound-card-snd-hda-intel-not-working/1225499#1225499)
+- [ ] man-pages
+- [ ] man-db
+- [ ] man-pages-pt_br
 ## apps
 - [x] firefox
 - [x] webcord
