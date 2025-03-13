@@ -23,6 +23,7 @@ just do remember everything a i have to install
 - [ ] man-db
 - [ ] man-pages-pt_br
 - [ ] dunst
+- [ ] brightnessctl
 ## apps
 - [x] firefox
 - [x] webcord
