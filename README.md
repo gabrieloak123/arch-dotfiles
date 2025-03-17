@@ -24,6 +24,7 @@ just do remember everything a i have to install
 - [ ] man-pages-pt_br
 - [ ] dunst
 - [ ] brightnessctl
+- [ ] gtop
 ## apps
 - [x] firefox
 - [x] webcord
