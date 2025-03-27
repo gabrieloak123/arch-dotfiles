@@ -89,6 +89,7 @@ Atualize os [mirrors](https://wiki.archlinux.org/title/Mirrors)
 
 Instale o [yay](https://github.com/Jguer/yay) e apague o repositório em sequência.
 
+Configure o [bluetooth](https://github.com/MarcoRab01/BluetoothArchLinux)
 Drivers
 
 
