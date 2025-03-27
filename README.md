@@ -25,6 +25,9 @@ just do remember everything a i have to install
 - [ ] dunst
 - [ ] brightnessctl
 - [ ] gtop
+- [ ] zathura
+- [ ] zathura-pdf-mupdf
+- [ ] zathura-cb
 ## apps
 - [x] firefox
 - [x] webcord
