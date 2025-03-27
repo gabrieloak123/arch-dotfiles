@@ -28,6 +28,7 @@ just do remember everything a i have to install
 - [ ] zathura
 - [ ] zathura-pdf-mupdf
 - [ ] zathura-cb
+- [ ] spotify
 ## apps
 - [x] firefox
 - [x] webcord
