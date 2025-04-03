@@ -29,6 +29,13 @@ just do remember everything a i have to install
 - [ ] zathura-pdf-mupdf
 - [ ] zathura-cb
 - [ ] spotify
+- [ ] grim
+- [ ] slurp
+- [ ] wl-clipboard
+- [ ] swappy
+- [ ] tesseract
+- [ ] imagemagick
+
 ## apps
 - [x] firefox
 - [x] webcord
