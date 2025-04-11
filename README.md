@@ -35,6 +35,7 @@ just do remember everything a i have to install
 - [ ] swappy
 - [ ] tesseract
 - [ ] imagemagick
+- [ ] texlive-binextra
 
 ## apps
 - [x] firefox
